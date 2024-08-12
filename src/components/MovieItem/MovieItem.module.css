@@ -1,0 +1,17 @@
+.titleFilm {
+    margin-top: 5px;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    display: block;
+  }
+  
+  .image {
+    height: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .link {
+    text-decoration: none;
+  }
